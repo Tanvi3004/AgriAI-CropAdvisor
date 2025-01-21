@@ -34,10 +34,8 @@ View data visualizations, cluster analysis, and prediction results directly in t
 ## What This Project Does
 
 ### 1. Data Exploration and Analysis
-- Dataset: The system uses a dataset containing soil nutrients (Nitrogen, Phosphorus, Potassium), climatic factors (Temperature, Humidity, Rainfall), and soil pH for various crops.
-Insights:
-Detailed statistics for each crop, including required soil nutrients and environmental conditions.
-Visualizations to understand the distribution of soil and climate parameters.
+-Dataset:The system uses a dataset containing soil nutrients (Nitrogen, Phosphorus, Potassium), climatic factors (Temperature, Humidity, Rainfall), and soil pH for various crops.
+-Insights:Detailed statistics for each crop, including required soil nutrients and environmental conditions. Visualizations to understand the distribution of soil and climate parameters.
 ### 2. K-Means Clustering
 Purpose: Group crops into clusters based on similar soil and climatic requirements.
 Process:
