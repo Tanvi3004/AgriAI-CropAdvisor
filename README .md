@@ -40,14 +40,14 @@ View data visualizations, cluster analysis, and prediction results directly in t
 - Clustering: Assigns crops to specific clusters for better categorization.
 - Outcome: Identifies groups of crops with similar environmental needs, aiding targeted recommendations.
 ### 3. Logistic Regression for Crop Prediction
-Goal: Predict the most suitable crop for given soil and climatic conditions.
-Steps:
-Train-Test Split: Splits the dataset into training and testing sets.
-Model Training: Uses Logistic Regression to learn crop classification.
-Evaluation: Provides classification metrics for model performance.
-Prediction:
-Input: Parameters like Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, and Rainfall.
-Output: Suggests the best crop based on the input conditions.
+- Goal: Predict the most suitable crop for given soil and climatic conditions.
+- Steps:
+  - Train-Test Split: Splits the dataset into training and testing sets.
+- Model Training: Uses Logistic Regression to learn crop classification.
+- Evaluation: Provides classification metrics for model performance.
+- Prediction:
+  - Input: Parameters like Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, and Rainfall.
+  - Output: Suggests the best crop based on the input conditions.
 ### 4. Interactive Analysis
 Interactive widgets allow users to explore crop-specific requirements, such as:
 Minimum, average, and maximum values for soil nutrients and climatic factors.
