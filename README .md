@@ -18,9 +18,6 @@ This project leverages data science and machine learning techniques to optimize 
 
 1. Clone the repository:
 
-```bash
- git clone https://github.com/Tanvi3004/AgriAI-CropAdvisor
-```
 2. Install dependencies:
 
 ```bash
