@@ -75,5 +75,9 @@ Execute each cell in sequential order by selecting the cell and pressing Shift +
 You can modify the input data (e.g., soil and climate parameters) in the designated cell to test predictions for various conditions.
 View data visualizations, cluster analysis, and prediction results directly in the notebook.
 
+## Key Features
+- Visualization: Graphs for distribution of soil nutrients, temperature, humidity, pH, and rainfall.
+- Clustering: Crop grouping based on shared requirements.
+- Prediction: Suggests the optimal crop for custom soil and climatic inputs.
 
 
