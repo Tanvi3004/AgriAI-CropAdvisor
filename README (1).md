@@ -4,7 +4,7 @@
 Project Overview: 
 This project leverages data science and machine learning techniques to optimize agricultural productivity by analyzing soil and climatic conditions. The system provides recommendations for the best crops to grow based on environmental factors, helping farmers make data-driven decisions for precision farming.
 
-![Capture](https://www.google.com/search?sca_esv=4518de3dcf4930bc&sxsrf=ADLYWIKVai8S1qoYfIwDWNRoNH3-_SGEHA:1737426396571&q=crop+recommendation+system+using+machine+learning+image&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JyWp6w6_rxLPe8F8fpm5a57iruiBaetC-P1z8A1EgSEtGoKiI-tyuuiDuAjQZN76zaAbPytU70vrRXfg6Tgzjij5R_Re136YiAiZQmK01ZhFDaBKvuWzjRrVqF2bxrJnMYbpGsRQzdzMtgTRsg_T6B4z0T9loWGkBjDF7Xezy_v0ygoVag&sa=X&ved=2ahUKEwiDn8PZ4YWLAxU3KFkFHXseET0QtKgLegQIGBAB&biw=1440&bih=778&dpr=2#vhid=Sb42knJR7bThyM&vssid=mosaic)
+![Capture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.frontiersin.org%2Fjournals%2Fplant-science%2Farticles%2F10.3389%2Ffpls.2023.1234555%2Ffull&psig=AOvVaw1DJsY4XpYCw6HfC-WIHMr4&ust=1737512798494000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDxo9vhhYsDFQAAAAAdAAAAABAg)
 
 
 ## Installation / how to use?
