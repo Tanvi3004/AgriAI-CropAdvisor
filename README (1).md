@@ -9,7 +9,7 @@ This project leverages data science and machine learning techniques to optimize 
 
 ## Screenshots
 
-!(https://imgur.com/a/UiGKURg)
+![App Screenshot](https://imgur.com/a/UiGKURg)
 
 
 ## Installation / how to use?
