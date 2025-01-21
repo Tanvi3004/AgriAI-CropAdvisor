@@ -75,9 +75,21 @@ Execute each cell in sequential order by selecting the cell and pressing Shift +
 You can modify the input data (e.g., soil and climate parameters) in the designated cell to test predictions for various conditions.
 View data visualizations, cluster analysis, and prediction results directly in the notebook.
 
-## Key Features
+## Key Features :
 - Visualization: Graphs for distribution of soil nutrients, temperature, humidity, pH, and rainfall.
 - Clustering: Crop grouping based on shared requirements.
 - Prediction: Suggests the optimal crop for custom soil and climatic inputs.
 
+## Result :
+- The system groups crops into 4 distinct clusters based on environmental similarities.
+- Predictive accuracy is evaluated with metrics like precision, recall, and F1-score.
+- Example Predictions:
+  - For input [90, 40, 40, 20, 80, 7, 200]: Suggested crop is Rice.
+  - For input [20, 30, 10, 15, 90, 7.5, 100]: Suggested crop is Wheat.
+    
+## Conclusion :
+- This project demonstrates how machine learning can assist in sustainable agriculture by:
+  - Identifying optimal crops for specific conditions.
+  - Enhancing resource utilization.
+  - Supporting data-driven decision-making in farming practices.
 
