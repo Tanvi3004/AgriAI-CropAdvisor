@@ -85,7 +85,7 @@ View data visualizations, cluster analysis, and prediction results directly in t
 - Predictive accuracy is evaluated with metrics like precision, recall, and F1-score.
 - Example Predictions:
   - For input [90, 40, 40, 20, 80, 7, 200]: Suggested crop is Rice.
-  - For input [20, 30, 10, 15, 90, 7.5, 100]: Suggested crop is Wheat.
+  - For input [20, 30, 10, 15, 90, 7.5, 100]: Suggested crop is orange.
     
 ## Conclusion :
 - This project demonstrates how machine learning can assist in sustainable agriculture by:
