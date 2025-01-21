@@ -4,7 +4,7 @@
 Project Overview: 
 This project leverages data science and machine learning techniques to optimize agricultural productivity by analyzing soil and climatic conditions. The system provides recommendations for the best crops to grow based on environmental factors, helping farmers make data-driven decisions for precision farming.
 
-![Capture](https://imgur.com/a/ue9BgBK)
+![Capture](https://imgur.com/sVDoEYg)
 
 
 ## Installation / how to use?
