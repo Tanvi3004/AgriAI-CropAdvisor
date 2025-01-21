@@ -36,7 +36,7 @@ View data visualizations, cluster analysis, and prediction results directly in t
 ### 2. K-Means Clustering
 - Purpose: Group crops into clusters based on similar soil and climatic requirements.
 - Process:
-  -Elbow Method: Determines the optimal number of clusters.
+  - Elbow Method: Determines the optimal number of clusters.
 - Clustering: Assigns crops to specific clusters for better categorization.
 - Outcome: Identifies groups of crops with similar environmental needs, aiding targeted recommendations.
 ### 3. Logistic Regression for Crop Prediction
