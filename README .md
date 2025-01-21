@@ -26,9 +26,6 @@ pip install -r requirements.txt
 ```
 3. Open Jupyter Notebook:
 
-```bash
- git clone https://github.com/Tanvi3004/AgriAI-CropAdvisor
-```
 4. Run the Notebook:
 Execute each cell in sequential order by selecting the cell and pressing Shift + Enter.
 You can modify the input data (e.g., soil and climate parameters) in the designated cell to test predictions for various conditions.
