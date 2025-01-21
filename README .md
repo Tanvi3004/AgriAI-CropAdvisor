@@ -14,15 +14,14 @@ This project leverages data science and machine learning techniques to optimize 
 ## Installation / how to use?
 
 1. Clone the repository:
-
+```bash
+git clone https://github.com/Tanvi3004/AgriAI-CropAdvisor.git
+```
 2. Install dependencies:
-
 ```bash
 pip install -r requirements.txt
-
 ```
 3. Open Jupyter Notebook:
-
 4. Run the Notebook:
 Execute each cell in sequential order by selecting the cell and pressing Shift + Enter.
 You can modify the input data (e.g., soil and climate parameters) in the designated cell to test predictions for various conditions.
