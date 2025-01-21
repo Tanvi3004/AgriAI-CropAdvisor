@@ -57,7 +57,7 @@ View data visualizations, cluster analysis, and prediction results directly in t
 1. Clone the repository:
 
 ```bash
- git clone https://github.com/Tanvi3004/AgriAI-CropAdvisor
+ git clone https://github.com/Tanvi3004/AgriAI-CropAdvisor.git
 ```
 2. Install dependencies:
 
