@@ -49,12 +49,11 @@ View data visualizations, cluster analysis, and prediction results directly in t
   - Input: Parameters like Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, and Rainfall.
   - Output: Suggests the best crop based on the input conditions.
 ### 4. Interactive Analysis
-Interactive widgets allow users to explore crop-specific requirements, such as:
-Minimum, average, and maximum values for soil nutrients and climatic factors.
-Comparison of environmental needs across crops.
+- Interactive widgets allow users to explore crop-specific requirements, 
+- such as:
+  - Minimum, average, and maximum values for soil nutrients and climatic factors. Comparison of environmental needs across crops.
 
-
-## Installation / how to use?
+## How to use?
 
 1. Clone the repository:
 
